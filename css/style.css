@@ -209,7 +209,7 @@ hr {
 }
 /** adbox **/
 #contents #adbox {
-	background: url(../images/bg-adbox-bottom.png) no-repeat left bottom;
+	background: url(../images/bg-adbox-bottom.png) no-repeat;
 	padding: 0 0 19px;
 	position: relative;
 }
